@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #686de0;
+  background-color: #1e8d27;
   font-family: 'Roboto', sans-serif;
   display: flex;
   flex-direction: column;
@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-  background-color: #fff;
+  background-color: #d4d4d4;
   border-radius: 10px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
   padding: 50px 20px;
@@ -28,6 +28,7 @@ body {
 }
 
 h3 {
+    color: #0344f7;
   margin: 0;
   opacity: 0.5;
   letter-spacing: 2px;
@@ -42,7 +43,7 @@ h3 {
 }
 
 .btn {
-  background-color: #9f68e0;
+  background-color: #2568e6;
   color: #fff;
   border: 0;
   border-radius: 10px;
